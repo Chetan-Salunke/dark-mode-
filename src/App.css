@@ -2,3 +2,14 @@
   text-align: center;
 }
 
+#img1{
+  background-image: url('/public/media/img1.jpg');
+}
+
+#img2{
+  background-image: url('/public/media/img2.jpg');
+}
+
+#img3{
+  background-image: url('/public/media/img3.jpg');
+}
